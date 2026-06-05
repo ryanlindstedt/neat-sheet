@@ -31,3 +31,12 @@ Handy commands you can launch via `Win+R` or the Start menu:
 | Tool | Description |
 |------|-------------|
 | [AltSnap](https://github.com/RamonUnch/AltSnap) | Hold `Alt` and drag any window to move it, or hold `Alt` and right-drag to resize. Brings Linux-style window management to Windows. |
+
+---
+
+## Websites
+
+| Site | Description |
+|------|-------------|
+| [whatsmydns.net](https://www.whatsmydns.net) | DNS propagation checker — see how your DNS records resolve from servers around the world. |
+| [ipchicken.com](https://www.ipchicken.com) | Quick public IP lookup — shows your external IP address and basic connection info. |
