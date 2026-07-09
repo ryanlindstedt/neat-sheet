@@ -22,15 +22,19 @@ Handy commands you can launch via `Win+R` or the Start menu:
 
 | Command | Description |
 |---------|-------------|
-| `mstsc` | Microsoft Remote Desktop Connection — quickly connect to remote machines. |
 | `appwiz.cpl` | Programs and Features — uninstall or modify installed programs. |
 | `ncpa.cpl` | Network Connections — view and configure network adapters. |
+| `mstsc` | Microsoft Remote Desktop Connection — quickly connect to remote machines. |
 
 ### Tools
 
 | Tool | Description |
 |------|-------------|
 | [AltSnap](https://github.com/RamonUnch/AltSnap) | Hold `Alt` and drag any window to move it, or hold `Alt` and right-drag to resize. Brings Linux-style window management to Windows. |
+| [Deskflow](https://github.com/deskflow/deskflow) | Description |
+| [Moonlight](https://moonlight-stream.org) | Description |
+
+
 
 ---
 
