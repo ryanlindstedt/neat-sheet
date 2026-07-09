@@ -1,7 +1,9 @@
-# neat-sheet
-
-A list of neat tips, tricks, and tools that engineers may not know about and/or find helpful.
-
+<p align="center">
+  <h1 align="center">Neat Sheet</h1>
+  <p align="center">
+    <strong>A collection of tips, tricks, and tools for engineers</strong>
+  </p>
+</p>
 ---
 
 ## Windows
