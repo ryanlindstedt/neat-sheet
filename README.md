@@ -1,9 +1,7 @@
 # Neat Sheet
 **A collection of tips, tricks, and tools for engineers**
 
-## Windows
-
-### Keyboard Shortcuts
+### Windows Keyboard Shortcuts
 
 | Shortcut | Description |
 |----------|-------------|
@@ -13,7 +11,7 @@
 | `Ctrl + Esc` | Open the Start menu — useful if your keyboard doesn't have a Windows key. |
 | `Win + L` | Lock your workstation instantly. |
 
-### Run Commands
+### Windows Run Commands
 
 Handy commands you can launch via `Win+R` or the Start menu:
 
@@ -32,10 +30,7 @@ Handy commands you can launch via `Win+R` or the Start menu:
 | [Moonlight](https://moonlight-stream.org) | Description |
 
 
-
----
-
-## Websites
+### Websites
 
 | Site | Description |
 |------|-------------|
