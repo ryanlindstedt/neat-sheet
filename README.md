@@ -1,10 +1,5 @@
-<p align="center">
-  <h1 align="center">Neat Sheet</h1>
-  <p align="center">
-    <strong>A collection of tips, tricks, and tools for engineers</strong>
-  </p>
-</p>
----
+# Neat Sheet
+**A collection of tips, tricks, and tools for engineers**
 
 ## Windows
 
