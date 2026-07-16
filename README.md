@@ -37,6 +37,6 @@ Handy commands you can launch via `Win+R` or the Start menu:
 | [ipchicken.com](https://www.ipchicken.com) | Quick public IP lookup — shows your external IP address and basic connection info. |
 | [whatsmydns.net](https://www.whatsmydns.net) | DNS propagation checker — see how your DNS records resolve from servers around the world. |
 | [lastweekinaws.com](https://www.lastweekinaws.com) | Description |
-| [https://instances.vantage.sh](https://instances.vantage.sh) | Table of all current AWS EC2 instance sizes |
+| [instances.vantage.sh](https://instances.vantage.sh) | Table of all current AWS EC2 instance sizes |
 
 
