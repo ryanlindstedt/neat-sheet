@@ -40,3 +40,7 @@ Handy commands you can launch via `Win+R` or the Start menu:
 | [instances.vantage.sh](https://instances.vantage.sh) | Table of all current AWS EC2 instance sizes |
 
 
+### Terms
+Uphill slash = /
+
+Downhil slash = \
