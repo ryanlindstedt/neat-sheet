@@ -26,8 +26,8 @@ Handy commands you can launch via `Win+R` or the Start menu:
 | Tool | Description |
 |------|-------------|
 | [AltSnap](https://github.com/RamonUnch/AltSnap) | Hold `Alt` and drag any window to move it, or hold `Alt` and right-drag to resize. Brings Linux-style window management to Windows. |
-| [Deskflow](https://github.com/deskflow/deskflow) | Cross-platform app which allows using a single keyboard and mouse on multiple client machines as if they were all external monitors. |
-| [Moonlight](https://moonlight-stream.org) | Description |
+| [Deskflow](https://github.com/deskflow/deskflow) | Deskflow is a free and open source keyboard and mouse sharing app. Use the keyboard, mouse, or trackpad of one computer to control nearby computers, and work seamlessly between them. It's like a software KVM (but without the video). Clipboard sharing is supported. |
+| [Moonlight](https://moonlight-stream.org) | RDP/VNC on steriods. It uses GPU to stream the desktop in h264 video with latency low enough to even make remote/cloud gaming possible. |
 | [Windhawk](https://windhawk.net) | App that allows for Win11 customizations with a plugin/feature marketplace. I specifically use the "Disable grouping on the taskbar" to get Liunx KDE style application icons on the taskbar which can be moved and sorted. |
 
 
